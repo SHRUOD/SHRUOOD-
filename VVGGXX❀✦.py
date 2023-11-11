@@ -320,7 +320,7 @@ def banner():
  ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁ 
 
-AUTHOR: SHRUOD
+Github_-SHRUOOD-
 UPDATED BY: ♛☞@VVGGXX
 TELE@VVGGXX
 ---------------------------------------------  
